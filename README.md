@@ -1,7 +1,7 @@
 # metrics
 This project is entry task for GL BigData ProCamp.
 ## Getting started
-These instructions will get you a copy of the project up and running on your local machine for gathering perfomance metrics.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Installing
 To install script on your machine you need pandas package for python.
